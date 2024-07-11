@@ -1,0 +1,18 @@
+.tabs{
+  display: flex;
+  gap: 14px;
+  background-color: rgba(white, 0.25);
+  border-radius: 12px;
+  padding: 10px;
+}
+
+.tab-title{
+  display: flex;
+  padding: 18px;
+  background: rgba(black, 0.1);
+  cursor: pointer;
+
+  i{
+    color: #222;
+  }
+}
